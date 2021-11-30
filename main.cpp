@@ -13,9 +13,9 @@ int main(){
     cin >> number;
     //check with modulus
     if(number%2==0)
-        cout << number << " is even. It can be divided into 2 equal groups.\n";
+        cout << number << " is even. It can be divided into two equal groups.\n";
     else
-        cout << number << " is not even. It cannot be divided into to equal groups.\n";
+        cout << number << " is not even. It cannot be divided into two equal groups.\n";
 
     return 0;
 }
